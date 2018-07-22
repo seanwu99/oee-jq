@@ -1,4 +1,4 @@
-# oee-ng
+# oee-jq
 
 [![Angular](https://img.shields.io/badge/Angular-5.2.0-red.svg)](https://angular.io//)
 [![Node](https://img.shields.io/badge/Node.js-8.7.0-brightgreen.svg)](https://nodejs.org/)
@@ -17,14 +17,12 @@ A template for building Overall Equipment Effectiveness application (jQuery vers
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-oee-ng/
+oee-jg/
 ├── src/
 
 
 ├── LICENSE
-├── package.json
-├── README.md
-└── tsconfig.json
+└── README.md
 ```
 
 ## Multiple versions
@@ -36,7 +34,7 @@ There are three different versions in the OEE Template
 jQuery version
 --------
     -- Running documentation locally
-    1.
-    2.
+
+    -- Running documentation as GitHub pages
     
 
