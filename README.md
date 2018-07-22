@@ -18,9 +18,36 @@ Within the download you'll find the following directories and files, logically g
 
 ```
 oee-jg/
-├── src/
-
-
+├── assets/
+│   ├── app/
+│   │   ├── js/
+│   │   │   ├── dashboard.js
+│   │   │   ├── default.js
+│   │   │   ├── drilldown.js
+│   │   │   ├── highcharts-3d.js
+│   │   │   ├── highstock.js
+│   │   │   ├── layout-builder.js
+│   │   │   └── oee.js
+│   │   └── media/
+│   │       └── img/
+│   ├── default/
+│   │   ├── base/
+│   │   │   ├── scripts.bundle.js
+│   │   │   ├── style.bundle.css
+│   │   │   └── style.bundle.rtl.css
+│   │   ├── custom/
+│   │   │   ├── components
+│   │   │   ├── crud
+│   │   │   └── header
+│   │   └── media/
+│   │       └── img/
+│   └── vendors/
+│       ├── base/
+│       │   ├── vendors.bundle.css
+│       │   ├── vendors.bundle.js
+│       │   └── vendors.bundle.rtl.css
+│       └── custom/
+├── index.html
 ├── LICENSE
 └── README.md
 ```
@@ -35,6 +62,10 @@ jQuery version
 --------
     -- Running documentation locally
 
+    1. Fork & clone this repository
+    2. open your browser on index.html
+
     -- Running documentation as GitHub pages
+    3. open your browser on https://<your-name>.github.io/oee-jq/
     
 
