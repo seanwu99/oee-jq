@@ -66,6 +66,7 @@ jQuery version
     2. open your browser on index.html
 
     -- Running documentation as GitHub pages
-    3. open your browser on https://<your-name>.github.io/oee-jq/
+    3. setup your GitHub Pages's Source as 'master branch'
+    4. open your browser on https://<your-name>.github.io/oee-jq/
     
 
