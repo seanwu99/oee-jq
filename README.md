@@ -61,7 +61,6 @@ There are three different versions in the OEE Template
 jQuery version
 --------
     -- Running documentation locally
-
     1. Fork & clone this repository
     2. open your browser on index.html
 
